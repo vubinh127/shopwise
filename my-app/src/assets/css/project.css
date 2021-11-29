@@ -1,0 +1,145 @@
+a {
+    color: red;
+}
+
+button {
+    background-color: rgb(254, 62, 87);
+    box-shadow: 0px 10px 25px 0px rgba(254, 62, 87, 0.3);
+    width: 160px;
+    height: 50px;
+}
+
+.wrap-banner{
+    box-shadow: 20px 0px 60px 0px rgba(202, 202, 202, 0.35);
+}
+
+.wrap-banner img {
+    height:550px;
+}
+
+.wrap-tienich{
+    background-color: rgb(255, 255, 255) ;
+    box-shadow: 20px 0px 60px 0px rgba(202, 202, 202, 0.35);
+    width: 370px;
+    height: 320px;
+
+}
+
+.wrap-tienich img{
+    height:10%;
+}
+
+.banner-left img {
+    width: 370px;
+    height: 636px;
+}
+
+.banner-top img{
+    width: 730px;
+    height: 303px;
+}
+
+.under {
+    height: 303px;
+}
+
+.trending {
+    background-color: rgb(246, 246, 246);
+}
+
+.product img {
+    width: 370px;
+    height: 370px;
+}
+
+.deal{
+    background-color: #f6f6f6;
+}
+
+.deal-time {
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 10px 40px 0px rgba(187, 187, 187, 0.3);
+    height: 150px;
+}
+
+.clockdiv{
+	font-family: sans-serif;
+	color: red;
+	display: inline-block;
+	font-weight: 100;
+	text-align: center;
+	font-size: 30px;
+}
+
+.clockdiv div > span{
+    padding: 15px;
+    color: red;
+	display: inline-block;
+}
+
+.smalltext{
+	padding-top: 30px;
+	font-size: 16px;
+}
+
+.deal img {
+    width: 400px;
+    height: 300px;
+}
+
+.deal-time h5{
+    padding-top :90px;
+}
+
+/*Blog*/
+
+.blog img{
+    width: 370px;
+    height: 288px;
+}
+/* Blog Detail*/
+
+.blog-detail img{
+    width: 100%;
+}
+
+.tacgia img{
+    width: 50%;
+}
+
+/*Contact*/
+
+.contact-us button{
+    width: 200px;
+    height: 40px;
+}
+
+.wrap-shop img {
+    width: 370px;
+    height: 370px;
+}
+
+.show-detail img{
+    width: 540px;
+    height: 360px;
+    
+}
+
+.related img {
+    width: 270px;
+    height: 270px;
+}
+
+.wrap-contact i{
+    width: 10px;
+}
+.contact-us{
+    background-color: #f6f6f6;
+}
+
+/*Not found*/
+
+.not-found img {
+    width: 100% ;
+}
